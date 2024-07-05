@@ -6,6 +6,8 @@
 
 ## Version 1:
 
+### live link : [Clikc here](https://alisepar.github.io/snake-game/)
+
 #### ScreenShot
 
 ![v1-screenshot](/image/Screenshot%20v1.png)
